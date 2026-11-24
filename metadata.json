@@ -1,0 +1,6 @@
+{
+  "name": "Smart Farmer",
+  "description": "Multilingual agricultural market intelligence, mandi price comparison, net profit estimation, live weather reporting, and AI voice assistance for farmers.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
